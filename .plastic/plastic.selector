@@ -1,0 +1,4 @@
+repository "Uzay Savasi@aecoskun@cloud"
+  path "/"
+    br "/main"
+    co "/main"
